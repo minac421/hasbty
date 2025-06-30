@@ -1,0 +1,20 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- خلفية دائرية -->
+  <circle cx="60" cy="60" r="60" fill="#2E7D7B"/>
+  
+  <!-- أيقونة الحقيبة الرئيسية -->
+  <rect x="25" y="45" width="70" height="50" rx="8" ry="8" fill="#4A9B99" stroke="#1A5F5D" stroke-width="3"/>
+  
+  <!-- مقبض الحقيبة -->
+  <rect x="45" y="35" width="30" height="15" rx="7" ry="7" fill="none" stroke="#1A5F5D" stroke-width="3"/>
+  
+  <!-- قفل الحقيبة -->
+  <rect x="55" y="60" width="10" height="8" rx="2" ry="2" fill="#1A5F5D"/>
+  
+  <!-- نقاط تفاصيل -->
+  <circle cx="75" cy="75" r="3" fill="#1A5F5D"/>
+  <circle cx="85" cy="75" r="2" fill="#1A5F5D"/>
+  
+  <!-- خط تفصيلي -->
+  <line x1="30" y1="85" x2="90" y2="85" stroke="#1A5F5D" stroke-width="2" stroke-linecap="round"/>
+</svg>
